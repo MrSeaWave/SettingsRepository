@@ -10,11 +10,8 @@
         <mark key="." line="32" column="19" />
         <mark key="^" line="32" column="19" />
       </file>
-      <file name="$USER_HOME$/workSpace/mo9Work/TemReactNative/src/pages/TestTextBaseline/TestTextBaseline.js" timestamp="1540784570586">
-        <mark key="'" line="14" column="6" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="vim_settings.xml" timestamp="1540890101154">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workSpace/mo9Work/CredMobile/App/TemFile/README.md" timestamp="1540867803672">
         <mark key="[" line="0" column="0" />
@@ -40,6 +37,9 @@
         <mark key="^" line="777" column="26" />
         <mark key="." line="800" column="0" />
       </file>
+      <file name="$USER_HOME$/workSpace/privateStudy/Booknotes/SSR/README.md" timestamp="1540887264495">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workSpace/mo9Work/TemReactNative/package.json" timestamp="1540863032335">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="28" />
@@ -50,6 +50,12 @@
         <mark key="]" line="15" column="62" />
         <mark key="^" line="15" column="62" />
         <mark key="." line="15" column="62" />
+      </file>
+      <file name="$USER_HOME$/workSpace/privateStudy/SettingsRepository/.gitignore" timestamp="1540890129846">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workSpace/mo9Work/CredMobile/App/Components/Onboarding/LoginView.js" timestamp="1540868321493" />
       <file name="$USER_HOME$/workSpace/privateStudy/Booknotes/Vim/Vimtutor_zh-cn" timestamp="1540795947834">
@@ -202,7 +208,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGUubG9nKCdzc3Nzc3MnLCBJMThuLnQoJ25vdW4nLCB7IGRlZmF1bHRWYWx1ZTogIkknbSBhIHt7bm91bn19Iiwgbm91bjogJ01hYycgfSkpOwo=</text>
+        <text encoding="base64">dmltX3NldHRpbmdzLnhtbAo=</text>
       </register>
       <register name="-" type="4">
         <text>M</text>
@@ -214,33 +220,33 @@
         <text />
       </register>
       <register name="1" type="2">
+        <text encoding="base64">dmltX3NldHRpbmdzLnhtbAo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGUubG9nKCdzc3Nzc3MnLCBJMThuLnQoJ25vdW4nLCB7IGRlZmF1bHRWYWx1ZTogIkknbSBhIHt7bm91bn19Iiwgbm91bjogJ01hYycgfSkpOwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>// console.log('i18n', I18n);
     // console.log('conxole.', I18n.t('point', { count: 10000, formatted_number: 2200000 }));
     // consol</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICJ6ZXJvIjogIjAgUG9pbnRzIgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICJvdGhlciI6ICJ7e2Zvcm1hdHRlZF9udW1iZXJ9fSBQb2ludHMiLAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICJvbmUiOiAiMSBQb2ludCIsCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAicG9pbnQiOiB7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD57STE4bi50KCdwb2ludCcsIHsgY291bnQ6IDEwMDAwLCBmb3JtYXR0ZWRfbnVtYmVyOiB0b051bWJlcjEwMDAwIH0pCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGkxCg==</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD57STE4bi50KCdwb2ludCcsIHsgY291bnQ6IDEwMDAwLCBmb3JtYXR0ZWRfbnVtYmVyOiB0b051bWJlcjEwMDAwIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/point_in_number/10000/g</text>
@@ -290,6 +296,8 @@
         <entry>s/point_in_number/1000/g</entry>
         <entry>%s/point_in_number/10000/g</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
