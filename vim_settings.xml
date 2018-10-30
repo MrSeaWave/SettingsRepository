@@ -40,16 +40,19 @@
         <mark key="^" line="777" column="26" />
         <mark key="." line="800" column="0" />
       </file>
+      <file name="$USER_HOME$/workSpace/privateStudy/Booknotes/SSR/README.md" timestamp="1540887264495">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workSpace/mo9Work/TemReactNative/package.json" timestamp="1540863032335">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/workSpace/mo9Work/CredMobile/App/TemFile/i18nMethod/PassVariableWithI18n.js" timestamp="1540879458235">
-        <mark key="[" line="15" column="61" />
-        <mark key="]" line="15" column="62" />
+      <file name="$USER_HOME$/workSpace/mo9Work/CredMobile/App/TemFile/i18nMethod/PassVariableWithI18n.js" timestamp="1540887156579">
+        <mark key="[" line="16" column="59" />
+        <mark key="]" line="16" column="59" />
         <mark key="^" line="15" column="62" />
-        <mark key="." line="15" column="62" />
+        <mark key="." line="16" column="59" />
       </file>
       <file name="$USER_HOME$/workSpace/mo9Work/CredMobile/App/Components/Onboarding/LoginView.js" timestamp="1540868321493" />
       <file name="$USER_HOME$/workSpace/privateStudy/Booknotes/Vim/Vimtutor_zh-cn" timestamp="1540795947834">
@@ -201,11 +204,11 @@
       <jump line="122" column="83" filename="$USER_HOME$/workSpace/mo9Work/CredMobile/App/I18n/languages/english.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGUubG9nKCdzc3Nzc3MnLCBJMThuLnQoJ25vdW4nLCB7IGRlZmF1bHRWYWx1ZTogIkknbSBhIHt7bm91bn19Iiwgbm91bjogJ01hYycgfSkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>M</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>point_in_number</text>
