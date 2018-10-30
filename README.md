@@ -1,2 +1,0 @@
-# SettingsRepository
-IDEA Settings Repository
