@@ -4,6 +4,7 @@
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="80cbc4" />
+    <option name="compactDropdowns" value="true" />
     <option name="userId" value="-3f8a783:1653359a399:-8000" />
     <option name="allowDataCollection" value="true" />
     <option name="isWizardShown" value="true" />
