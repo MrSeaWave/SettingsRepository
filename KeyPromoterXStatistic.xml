@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1409</Count>
+          <Count>1410</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -177,6 +177,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun '870.js'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun '870.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restore Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
@@ -273,6 +281,14 @@
           <Count>42</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run '870.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run '870.js'</Description>
+          <Count>19</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'index.js (1)'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -367,6 +383,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop '838.js'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '870.js'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop '870.js'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'utils.js'">
