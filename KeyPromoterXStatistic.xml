@@ -254,7 +254,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run '695.js'</Description>
-          <Count>58</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '775.js'">
