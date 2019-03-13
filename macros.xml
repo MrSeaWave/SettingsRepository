@@ -1,0 +1,17 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Eslint Fix File And Save">
+      <action id="Javascript.Linters.EsLint.Fix" />
+      <action id="SaveAll" />
+    </macro>
+    <macro name="standard fix and save">
+      <action id="Javascript.Linters.StandardJS.Fix" />
+      <action id="SaveAll" />
+    </macro>
+    <macro name="standard prettier fix and save">
+      <action id="ReformatWithPrettierAction" />
+      <action id="Javascript.Linters.StandardJS.Fix" />
+      <action id="SaveAll" />
+    </macro>
+  </component>
+</application>
