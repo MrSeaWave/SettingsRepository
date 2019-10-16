@@ -3,10 +3,11 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".jsinspectrc" type="JSON" />
       <mapping pattern=".Vimtutor_zh-cnTest.swp" type="PLAIN_TEXT" />
       <mapping pattern="Vimtutor_zh-cnTest" type="PLAIN_TEXT" />
-      <mapping pattern=".jsinspectrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".jsinspectrc" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
