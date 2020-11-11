@@ -8,6 +8,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".Vimtutor_zh-cnTest.swp" type="PLAIN_TEXT" />
       <mapping pattern="Vimtutor_zh-cnTest" type="PLAIN_TEXT" />
+      <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="npy" type="PLAIN_TEXT" />
       <mapping pattern="scli" type="TypeScript JSX" />
