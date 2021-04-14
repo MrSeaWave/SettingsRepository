@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="prettierFormat" description="prettierFormat" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="prettierFormat" description="prettierFormat" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$ProjectFileDir$/node_modules/prettier/bin-prettier.js" />
       <option name="PARAMETERS" value="$FilePath$ --write" />
