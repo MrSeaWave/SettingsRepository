@@ -13,5 +13,10 @@
       <action id="Javascript.Linters.StandardJS.Fix" />
       <action id="SaveAll" />
     </macro>
+    <macro name="prettier&amp;Eslint&amp;Save">
+      <action id="Tool_External Tools_prettierFormat" />
+      <action id="Javascript.Linters.EsLint.Fix" />
+      <action id="SaveAll" />
+    </macro>
   </component>
 </application>

@@ -2,8 +2,11 @@
   <action id="Macro.Eslint Fix File And Save">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
+  <action id="Macro.prettier&amp;Eslint&amp;Save">
+    <keyboard-shortcut first-keystroke="ctrl meta alt s" />
+  </action>
   <action id="NewDir">
-    <keyboard-shortcut first-keystroke="shift meta 1" />
+    <keyboard-shortcut first-keystroke="shift meta exclamation_mark" />
   </action>
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="shift meta 2" />
