@@ -1,5 +1,5 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="Macro.Eslint Fix File And Save">
+  <action id="Macro.prettier&amp;Eslint&amp;Save">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="NewDir">
